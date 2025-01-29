@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background-color: #21394c;
+}
+.main{
+    /* change the backgroung image or increase the size to fit the screen */
+    background-image: url(./Non-Small\ Cell\ Lung\ Cancer\ Market\ Huge\ Growth\ Opportunities\ and\ Challenges\ to\ Watch\ in\ 2019.jfif);
+    background-size: cover;
+    color: white;
+    /* background-position: 100%; */
+    /* font-family: sans-serif; */
+    
+}
+a{
+    color: #c60000;
+    text-decoration: none;   
+}
+a:hover{
+    color: white;
+}
+.nav{
+    color: white;
+    padding: 2% 0% 2% 2%;
+    display: flex;
+    background-color: black;
+}
+.links{
+    padding-left: 30%;
+}
+/* .links a{
+    padding-right: 1%;
+} */
+.main{
+    padding: 10% 10% 10% 10%;
+    font-size: 30px;
+}
+span{
+    color: #c60000;
+    /* font-style: italic; */
+    /* font-family: cursive; */
+    /* font-size: 40px; */
+}
+footer{
+    padding-top: 5%;
+    text-align: center;
+    color:white; 
+    background-color: black;
+    padding-bottom: 4%;
+}

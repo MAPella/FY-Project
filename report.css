@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    color: white;
+    padding: 2% 0% 2% 2%;
+    display: flex;
+    background-color: black;
+}
+.links{
+    padding-left: 30%;
+}
+a{
+    color: rgb(190, 190, 190);
+    text-decoration: none;
+}
+a:hover{
+    color: #c60000;
+    text-decoration: underline;
+}
+footer{
+    /* padding-top: 5%; */
+    margin-top: 5%;
+    text-align: center;
+    color:white; 
+    background-color: black;
+    padding-bottom: 4%;
+    /* vertical-align: middle; */
+}
